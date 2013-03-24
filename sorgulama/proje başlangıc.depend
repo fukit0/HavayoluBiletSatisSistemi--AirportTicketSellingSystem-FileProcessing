@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1331747317 source:c:\users\onur cem\desktop\proje baþlangýc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1331827312 source:c:\users\onur cem\desktop\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1331827567 source:i:\algoritma ve programlama ii\proje 1\sorgulama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
